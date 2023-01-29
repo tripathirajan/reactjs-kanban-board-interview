@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-kanban-board-interview/static/css/main.1266ad06.css",
+    "main.js": "/reactjs-kanban-board-interview/static/js/main.cc5305f9.js",
+    "static/js/787.75014cdd.chunk.js": "/reactjs-kanban-board-interview/static/js/787.75014cdd.chunk.js",
+    "index.html": "/reactjs-kanban-board-interview/index.html",
+    "main.1266ad06.css.map": "/reactjs-kanban-board-interview/static/css/main.1266ad06.css.map",
+    "main.cc5305f9.js.map": "/reactjs-kanban-board-interview/static/js/main.cc5305f9.js.map",
+    "787.75014cdd.chunk.js.map": "/reactjs-kanban-board-interview/static/js/787.75014cdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1266ad06.css",
+    "static/js/main.cc5305f9.js"
+  ]
+}
